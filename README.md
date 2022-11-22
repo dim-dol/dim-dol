@@ -25,6 +25,13 @@
 
 <br>
 
+
+<h2> CAREER </h2>
+
+[2020.01.06 ~ Now ] YoungPoong Electronic.  - Research Engineer
+  
+<br>
+
 <h2> EDUCATION </h2>
 
 - **Master -** Chungbuk.Univ - Industrial-AI (2021-2023)</p>
